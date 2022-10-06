@@ -1,0 +1,19 @@
+#sidebar{
+    position: fixed;
+    margin-bottom: 5vh;
+    /* z-index: 17; */
+    background-color: darkolivegreen;
+}
+#brand{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 1.2rem;
+}
+body{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 1.1rem;
+}
+@media(max-width:700px){
+    #brand{
+        display: none;
+    }
+}
