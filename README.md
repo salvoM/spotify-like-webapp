@@ -58,7 +58,7 @@ artists.
 
 ### Component Interaction Diagram
 In purple the web pages while in green there are the back-end components, which use the database and the external API.
-![component interaction diagram](InteractionDiagram.png "Component Interaction Diagram")
+![component interaction diagram](readme_img/InteractionDiagram.png "Component Interaction Diagram")
 
 
 ### ER Diagram
